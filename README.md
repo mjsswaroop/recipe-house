@@ -9,8 +9,9 @@ A recipe web application that allows users to search and browse through a collec
 - **Fully responsive** design that works seamlessly on mobile, tablet, and desktop devices.
 
 ## Screenshots
-![<img width="1455" alt="Screenshot 2025-03-29 at 3 23 21 PM" src="https://github.com/user-attachments/assets/e926986a-4d5e-4ec7-b1db-0238b8c41b99" />
-](#) 
+![Recipe House Screenshot](https://github.com/mjsswaroop/recipe-house/blob/076bda6f049a8f788b3aab72660bfbbc8f88d4b7/src/assets/s1.png)
+![Recipe House Screenshot](https://github.com/mjsswaroop/recipe-house/blob/076bda6f049a8f788b3aab72660bfbbc8f88d4b7/src/assets/s2.png)
+![Recipe House Screenshot](https://github.com/mjsswaroop/recipe-house/blob/076bda6f049a8f788b3aab72660bfbbc8f88d4b7/src/assets/s3.png)
 ## Installation
 
 ### Prerequisites
